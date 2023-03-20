@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.cfg": "coffeescript",
+        "type_traits": "cpp",
+        "iostream": "cpp",
+        "memory": "cpp",
+        "cstdlib": "cpp"
+    }
+}
